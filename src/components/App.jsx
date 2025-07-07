@@ -1,6 +1,6 @@
 import './App.css';
-import cardImage from '../assets/images/illustration-hero.svg'
-import cardIcon from '../assets/images/icon-music.svg'
+import cardImage from '/images/illustration-hero.svg'
+import cardIcon from '/images/icon-music.svg'
 
 function App() {
 
